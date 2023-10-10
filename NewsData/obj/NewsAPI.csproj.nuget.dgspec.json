@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\GitClone\\API\\NewsAPI\\NewsAPI.csproj": {}
+    "F:\\GitClone\\Git Clone\\NewsAPI\\NewsData\\NewsAPI.csproj": {}
   },
   "projects": {
-    "F:\\GitClone\\API\\NewsAPI\\NewsAPI.csproj": {
+    "F:\\GitClone\\Git Clone\\NewsAPI\\NewsData\\NewsAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\GitClone\\API\\NewsAPI\\NewsAPI.csproj",
+        "projectUniqueName": "F:\\GitClone\\Git Clone\\NewsAPI\\NewsData\\NewsAPI.csproj",
         "projectName": "NewsAPI",
-        "projectPath": "F:\\GitClone\\API\\NewsAPI\\NewsAPI.csproj",
+        "projectPath": "F:\\GitClone\\Git Clone\\NewsAPI\\NewsData\\NewsAPI.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "F:\\GitClone\\API\\NewsAPI\\obj\\",
+        "outputPath": "F:\\GitClone\\Git Clone\\NewsAPI\\NewsData\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

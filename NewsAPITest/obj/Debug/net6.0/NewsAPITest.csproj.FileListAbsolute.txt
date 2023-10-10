@@ -109,3 +109,6 @@ F:\GitClone\API\NewsAPITest\obj\Debug\net6.0\refint\NewsAPITest.dll
 F:\GitClone\API\NewsAPITest\obj\Debug\net6.0\NewsAPITest.pdb
 F:\GitClone\API\NewsAPITest\obj\Debug\net6.0\NewsAPITest.genruntimeconfig.cache
 F:\GitClone\API\NewsAPITest\obj\Debug\net6.0\ref\NewsAPITest.dll
+F:\GitClone\Git Clone\NewsAPI\NewsAPITest\obj\Debug\net6.0\NewsAPITest.dll
+F:\GitClone\Git Clone\NewsAPI\NewsAPITest\obj\Debug\net6.0\refint\NewsAPITest.dll
+F:\GitClone\Git Clone\NewsAPI\NewsAPITest\obj\Debug\net6.0\NewsAPITest.pdb

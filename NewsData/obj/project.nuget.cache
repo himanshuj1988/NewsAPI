@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Bf6YBAfhWI2nzh+9q/nm1lLxXAo/9XsWUcE5AxKQW/IvX1EOnuy6N8+ztpVKvRg19ukWmEaILkMv9gIfsBVLrQ==",
+  "dgSpecHash": "bUn75F729MM8QGPZxBOqzcDwpASQqfdlxkcSoSNbunIw0ICVgmUSEHjBNOJD51RnZ36/2b/+RX4pKmAjIUcJjA==",
   "success": true,
-  "projectFilePath": "F:\\GitClone\\API\\NewsAPI\\NewsAPI.csproj",
+  "projectFilePath": "F:\\GitClone\\Git Clone\\NewsAPI\\NewsData\\NewsAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

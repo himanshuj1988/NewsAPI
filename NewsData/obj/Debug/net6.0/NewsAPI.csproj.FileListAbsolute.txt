@@ -64,3 +64,36 @@ F:\GitClone\API\NewsAPI\obj\Debug\net6.0\scopedcss\bundle\NewsAPI.styles.css
 F:\GitClone\API\NewsAPI\obj\Debug\net6.0\NewsAPI.csproj.CopyComplete
 F:\GitClone\API\NewsAPI\obj\Debug\net6.0\NewsAPI.genruntimeconfig.cache
 F:\GitClone\API\NewsAPI\obj\Debug\net6.0\ref\NewsAPI.dll
+F:\GitClone\Git Clone\NewsAPI\NewsData\bin\Debug\net6.0\appsettings.Development.json
+F:\GitClone\Git Clone\NewsAPI\NewsData\bin\Debug\net6.0\appsettings.json
+F:\GitClone\Git Clone\NewsAPI\NewsData\bin\Debug\net6.0\NewsAPI.exe
+F:\GitClone\Git Clone\NewsAPI\NewsData\bin\Debug\net6.0\NewsAPI.deps.json
+F:\GitClone\Git Clone\NewsAPI\NewsData\bin\Debug\net6.0\NewsAPI.runtimeconfig.json
+F:\GitClone\Git Clone\NewsAPI\NewsData\bin\Debug\net6.0\NewsAPI.dll
+F:\GitClone\Git Clone\NewsAPI\NewsData\bin\Debug\net6.0\NewsAPI.pdb
+F:\GitClone\Git Clone\NewsAPI\NewsData\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\GitClone\Git Clone\NewsAPI\NewsData\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\GitClone\Git Clone\NewsAPI\NewsData\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\GitClone\Git Clone\NewsAPI\NewsData\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\GitClone\Git Clone\NewsAPI\NewsData\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\GitClone\Git Clone\NewsAPI\NewsData\obj\Debug\net6.0\NewsAPI.csproj.AssemblyReference.cache
+F:\GitClone\Git Clone\NewsAPI\NewsData\obj\Debug\net6.0\NewsAPI.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitClone\Git Clone\NewsAPI\NewsData\obj\Debug\net6.0\NewsAPI.AssemblyInfoInputs.cache
+F:\GitClone\Git Clone\NewsAPI\NewsData\obj\Debug\net6.0\NewsAPI.AssemblyInfo.cs
+F:\GitClone\Git Clone\NewsAPI\NewsData\obj\Debug\net6.0\NewsAPI.csproj.CoreCompileInputs.cache
+F:\GitClone\Git Clone\NewsAPI\NewsData\obj\Debug\net6.0\NewsAPI.MvcApplicationPartsAssemblyInfo.cs
+F:\GitClone\Git Clone\NewsAPI\NewsData\obj\Debug\net6.0\NewsAPI.MvcApplicationPartsAssemblyInfo.cache
+F:\GitClone\Git Clone\NewsAPI\NewsData\obj\Debug\net6.0\staticwebassets\msbuild.NewsAPI.Microsoft.AspNetCore.StaticWebAssets.props
+F:\GitClone\Git Clone\NewsAPI\NewsData\obj\Debug\net6.0\staticwebassets\msbuild.build.NewsAPI.props
+F:\GitClone\Git Clone\NewsAPI\NewsData\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.NewsAPI.props
+F:\GitClone\Git Clone\NewsAPI\NewsData\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.NewsAPI.props
+F:\GitClone\Git Clone\NewsAPI\NewsData\obj\Debug\net6.0\staticwebassets.pack.json
+F:\GitClone\Git Clone\NewsAPI\NewsData\obj\Debug\net6.0\staticwebassets.build.json
+F:\GitClone\Git Clone\NewsAPI\NewsData\obj\Debug\net6.0\staticwebassets.development.json
+F:\GitClone\Git Clone\NewsAPI\NewsData\obj\Debug\net6.0\scopedcss\bundle\NewsAPI.styles.css
+F:\GitClone\Git Clone\NewsAPI\NewsData\obj\Debug\net6.0\NewsAPI.csproj.CopyComplete
+F:\GitClone\Git Clone\NewsAPI\NewsData\obj\Debug\net6.0\NewsAPI.dll
+F:\GitClone\Git Clone\NewsAPI\NewsData\obj\Debug\net6.0\refint\NewsAPI.dll
+F:\GitClone\Git Clone\NewsAPI\NewsData\obj\Debug\net6.0\NewsAPI.pdb
+F:\GitClone\Git Clone\NewsAPI\NewsData\obj\Debug\net6.0\NewsAPI.genruntimeconfig.cache
+F:\GitClone\Git Clone\NewsAPI\NewsData\obj\Debug\net6.0\ref\NewsAPI.dll
