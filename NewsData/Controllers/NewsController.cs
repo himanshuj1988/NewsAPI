@@ -85,22 +85,5 @@ namespace NewsAPI.Controllers
                 });
         }
 
-
-        /// <summary>
-        /// We are using this method to test the API we are using for pulling News Data
-        /// </summary>
-        /// <returns></returns>
-        [HttpGet("TestNews")]
-        public async Task<bool> TestNews()
-        {
-            var response = await _repo.BestStoriesAsync();
-            var storiesResponse = response.Content.ReadAsStringAsync().Result;
-            var bestIds = JsonConvert.DeserializeObject<List<int>>(storiesResponse);
-            return bestIds.Contains(37791002) ? true : false;
-
-        }
-
-
-
     }
 }
