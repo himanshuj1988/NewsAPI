@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/iQ1dh8d+5fHmrbjb4CeO4XNapxrmJKJ3EOivVSLOo9Px8yIg3LMc7doAadE5Ii0XJEpWeqCZZj0D6iNLhQfxg==",
+  "dgSpecHash": "zjufA8kH9iL/jmTfvbEzADh4OACwYIKbO9GExTSscPrdwa2RPIjE7oizTKg5jUvttQ+OeA8B85TfxaGizFWL9Q==",
   "success": true,
-  "projectFilePath": "F:\\GitClone\\Git Clone\\NewsAPI\\NewsAPITest\\NewsAPITest.csproj",
+  "projectFilePath": "F:\\GitClone\\Git Clone New\\NewsAPI\\NewsAPITest\\NewsAPITest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",

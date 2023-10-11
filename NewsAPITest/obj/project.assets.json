@@ -5971,11 +5971,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\GitClone\\Git Clone\\NewsAPI\\NewsAPITest\\NewsAPITest.csproj",
+      "projectUniqueName": "F:\\GitClone\\Git Clone New\\NewsAPI\\NewsAPITest\\NewsAPITest.csproj",
       "projectName": "NewsAPITest",
-      "projectPath": "F:\\GitClone\\Git Clone\\NewsAPI\\NewsAPITest\\NewsAPITest.csproj",
+      "projectPath": "F:\\GitClone\\Git Clone New\\NewsAPI\\NewsAPITest\\NewsAPITest.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "F:\\GitClone\\Git Clone\\NewsAPI\\NewsAPITest\\obj\\",
+      "outputPath": "F:\\GitClone\\Git Clone New\\NewsAPI\\NewsAPITest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5992,8 +5992,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "F:\\GitClone\\Git Clone\\NewsAPI\\NewsData\\NewsAPI.csproj": {
-              "projectPath": "F:\\GitClone\\Git Clone\\NewsAPI\\NewsData\\NewsAPI.csproj"
+            "F:\\GitClone\\Git Clone New\\NewsAPI\\NewsData\\NewsAPI.csproj": {
+              "projectPath": "F:\\GitClone\\Git Clone New\\NewsAPI\\NewsData\\NewsAPI.csproj"
             }
           }
         }
